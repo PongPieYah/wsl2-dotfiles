@@ -1,0 +1,33 @@
+[user]
+    name = "PongPieYah"
+    email = "pongpieyah@gmail.com"
+[core]
+    editor = code --wait
+    filemode = false
+[color]
+    ui = true
+[alias]
+    cl = clone
+    i = init
+    a = add
+    d = diff
+    g = grep
+    l = log
+    lo = log --oneline
+    lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+    s = show
+    br = branch
+    cm = commit
+    m = merge
+    rb = rebase
+    rs = reset
+    sw = switch
+    t = tag
+    f = fetch
+    pl = pull
+    p = push
+    co = checkout
+    st = status
+    rl = reflog
+    cp = cherry-pick
+    rmt = remote
